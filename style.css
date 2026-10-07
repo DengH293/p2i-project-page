@@ -40,3 +40,4 @@
 .figure-stage .paper-figure img{border-radius:7px}
 .figure-stage .paper-figure figcaption{margin-top:18px}
 @media(max-width:760px){.figure-stage .paper-figure{padding:12px;border-radius:14px;box-shadow:0 16px 30px -16px #182d4a38,0 3px 10px #182d4a08}.figure-stage .paper-figure figcaption{margin-top:14px}}
+.paper-venue{margin:0 0 18px;color:var(--accent);font-size:15px;font-weight:600;letter-spacing:.08em;line-height:1.4}
